@@ -2,7 +2,7 @@
 A Python GUI tool built using Tkinter, for demonstrating the trigonometric Fourier trigonometric series for the square waves for "arbitarily" :blush: large values of n.
    
 ## Demo:tv:
-![](demo.PNG)
+![](demo.gif)
 
 ## Contributing
 Contributions are always welcome!
